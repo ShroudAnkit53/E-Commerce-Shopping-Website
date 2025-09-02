@@ -3,6 +3,7 @@
 📌 Overview
 
 This project is a fully functional e-commerce shopping website where users can browse products, add them to the cart, and proceed to checkout. It is designed to provide a smooth online shopping experience with a clean and responsive UI.
+
 ---
 🛠️ Tech Stack
 
@@ -10,6 +11,7 @@ Frontend: HTML, CSS, JavaScript <br>
 Backend: PHP <br>
 Database: MySQL <br>
 Other Tools: Bootstrap, Git/GitHub
+
 ---
 ✨ Features
 
@@ -18,10 +20,12 @@ Other Tools: Bootstrap, Git/GitHub
 3. Shopping cart functionality
 4. Order placement and checkout
 5. Responsive design for mobile and desktop
+
 ---
 📸 Screenshots
 
 (Add screenshots or a demo video here if possible)
+
 ---
 📈 Future Enhancements
 
