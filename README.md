@@ -6,10 +6,10 @@ This project is a fully functional e-commerce shopping website where users can b
 ---
 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript 
-Backend: PHP 
-Database: MySQL
-Other Tools: Bootstrap, Git/GitHub
+-Frontend: HTML, CSS, JavaScript 
+-Backend: PHP 
+-Database: MySQL
+-Other Tools: Bootstrap, Git/GitHub
 ---
 ✨ Features
 
